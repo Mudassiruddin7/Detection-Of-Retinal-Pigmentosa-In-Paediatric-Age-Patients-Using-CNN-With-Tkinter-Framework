@@ -1,4 +1,4 @@
-![CNN](https://i.gifer.com/7PwO.gif)
+![CNN](https://media0.giphy.com/media/f9BBuAaHHgT47PwUh6/giphy.gif)
 
 # _**Detection Of Retinal Pigmentosa In Paediatric Age Patients Using CNN With Tkinter Framework**_
 Detection of retinal pigmentosa in paediatric age patients involves a combination of deep learning and MySQL in the process of registering the user who wants to use the application. The project consists of a Tkinter GUI where the user can register himself/herself and login to evaluate and test the model. The model predicts by taking image as an input an predicts whether a person is affected with retinal pigmentosa or not, the model which we use to train and test the data is Convolutional neural network model.
