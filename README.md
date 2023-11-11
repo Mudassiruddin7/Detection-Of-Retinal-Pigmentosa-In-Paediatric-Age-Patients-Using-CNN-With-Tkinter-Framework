@@ -105,7 +105,7 @@ The dataset was downloaded from a private data repository which might not be ava
 
 **Negative**
 
-![Negative](https://www.researchgate.net/publication/326215689/figure/fig1/AS:646525940166656@1531155204898/b-however-shows-an-example-of-an-unhealthy-eye-fundus-whose-patient-is-diagnosed-with-a.png)
+![Negative](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fundus_photograph_of_normal_right_eye.jpg/220px-Fundus_photograph_of_normal_right_eye.jpg)
 
 **Positive**
 
