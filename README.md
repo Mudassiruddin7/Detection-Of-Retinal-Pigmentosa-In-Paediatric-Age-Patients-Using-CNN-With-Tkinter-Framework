@@ -97,7 +97,8 @@ Now you are ready to use jupyter on this environment and start with your project
 4.	Make sure you are in the correct path in your terminal, where you have saved your executable file/folder. E.g.: cd A:\project\AI\Completed\project_name, then press enter.
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
-7.	Run main.py in your anaconda terminal and make sure to change the path where your executable files are located in the anaconda terminal.
+7.	Unzip All .rar Files.
+8.	Run main.py in your anaconda terminal and make sure to change the path where your executable files are located in the anaconda terminal.
 
 # _**Data Description**_
 The dataset was downloaded from a private data repository which might not be available now. The dataset is divided into train and test sets, where each folder is again divided into negative and positive folders, where thee training_negative consists of 386 images and training_positive consists of 134 images, similarly test_negative consists of 96 images and test_positive consists of 34 images. Shape of all the images is equally scaled about 3072 x 2048‬.‬‬
