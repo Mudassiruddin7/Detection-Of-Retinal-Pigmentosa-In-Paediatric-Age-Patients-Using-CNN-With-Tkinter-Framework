@@ -105,7 +105,7 @@ The dataset was downloaded from a private data repository which might not be ava
 
 **Negative**
 
-![Negative](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fundus_photograph_of_normal_right_eye.jpg/220px-Fundus_photograph_of_normal_right_eye.jpg)
+![Negative](https://www.washingtoneye.com/wp-content/uploads/2021/12/retina-iStock-172711954.jpg)
 
 **Positive**
 
